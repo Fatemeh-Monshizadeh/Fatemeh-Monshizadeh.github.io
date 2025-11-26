@@ -1,10 +1,108 @@
 [
   {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "",
+    "section": "",
+    "text": "First Post\n\n\nPost description for first post\n\n\n\n\n\nMay 22, 2021\n\n\nHarsha\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/technical_reports/index.html",
+    "href": "publications/technical_reports/index.html",
+    "title": "Technical Reports",
+    "section": "",
+    "text": "Title\n\n\n\nDescription\n\n\n\nKeywords\n\n\n\n\n\n\n\n\nHarsha Chamara Hewage, H. Niles Perera, Shari De Baets, Forecast adjustments during post-promotional periods, European Journal of Operational Research.\n\n\nWe study judgmental forecast adjustments in pre-promotional (normal), promotional and post-promotional periods via behavioral experiments. Forecasters need structured support to make effective adjustments during post-promotional periods. The…\n\n\nPython, Machine Learning, Data Cleaning\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/journal_articles/index.html",
+    "href": "publications/journal_articles/index.html",
+    "title": "Journal Articles",
+    "section": "",
+    "text": "Author/(s)\n\n\n\nTitle\n\n\n\nKeywords\n\n\n\n\n\n\n\n\nFatemeh Monshizadeh, Mohammad Reza Sadeghi Moghadam, Taha Mansouri, Maneesh Kumar\n\n\nDeveloping an industry 4.0 readiness model using fuzzy cognitive maps approach\n\n\nIndustry 4.0, Readiness model, Fuzzy cognitive maps (FCM)\n\n\n\n\n\n\nTaha Mansouri, Mohammad Reza Sadeghi Moghadam, Fatemeh Monshizadeh, Ahad Zareravasan\n\n\nIoT data quality issues and potential solutions: a literature review\n\n\nData quality, Internet of Things (IoT), IoT data quality dimensions, IoT data quality issues, Literature review\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
     "title": "",
     "section": "",
-    "text": "First Post\n\n\n\n\n\nBeyond Technology: Rethinking Healthcare Transformation Through Ecosystem Collaboration\n\n\n\n\n\nDec 11, 2026\n\n\nFatemeh\n\n\n\n\n\n\nNo matching items"
+    "text": "First Post\n\n\nBeyond Technology: Rethinking Healthcare Transformation Through Ecosystem Collaboration\n\n\n\n\n\nDec 11, 2026\n\n\nFatemeh\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fatemeh Monshizadeh",
+    "section": "",
+    "text": "I am currently a PhD student at Cardiff University, UK, specializing in Digital Twins, Industry 4.0, Healthcare, and Digital Business Models. My research focuses on exploring the transformative potential of Digital Twins in healthcare, including their applications, challenges, and benefits.\nWith a strong academic foundation and hands-on research experience, I am eager to bring my expertise to businesses, particularly in management consulting and digital transformation. I am passionate about helping organizations leverage cutting-edge technologies to optimize operations, enhance decision-making, and drive innovation.\nAs a self-motivated and driven individual, I thrive in dynamic environments where creativity, collaboration, and effective communication can make a meaningful impact. My goal is to bridge the gap between academic insights and practical applications, empowering businesses to adapt and excel in the digital age.\nExplore my full list of publications on Google Scholar."
+  },
+  {
+    "objectID": "projects/sustainability/first-post/index.html",
+    "href": "projects/sustainability/first-post/index.html",
+    "title": "First Post",
+    "section": "",
+    "text": "Sed risus ultricies tristique nulla aliquet. Neque volutpat ac tincidunt vitae semper quis lectus nulla.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim sed faucibus turpis in eu mi bibendum neque. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Velit sed ullamcorper morbi tincidunt ornare massa. Sagittis id consectetur purus ut faucibus pulvinar elementum integer. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Lobortis feugiat vivamus at augue eget arcu. Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Mauris a diam maecenas sed enim ut sem viverra aliquet. Enim ut tellus elementum sagittis vitae et leo duis. Molestie at elementum eu facilisis sed odio morbi quis commodo. Sapien pellentesque habitant morbi tristique senectus. Quam vulputate dignissim suspendisse in est. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget.\nVelit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum. Viverra mauris in aliquam sem fringilla ut morbi tincidunt augue. Tortor at auctor urna nunc id. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Aliquet nibh praesent tristique magna sit amet purus. Tristique senectus et netus et malesuada fames ac turpis. Hac habitasse platea dictumst quisque. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Ultrices tincidunt arcu non sodales neque sodales ut etiam. Iaculis at erat pellentesque adipiscing. Cras tincidunt lobortis feugiat vivamus. Nisi est sit amet facilisis magna etiam. Pharetra pharetra massa massa ultricies mi quis hendrerit. Vitae sapien pellentesque habitant morbi tristique senectus. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae."
+  },
+  {
+    "objectID": "projects/forecasting/first-post/index.html",
+    "href": "projects/forecasting/first-post/index.html",
+    "title": "First Post",
+    "section": "",
+    "text": "Sed risus ultricies tristique nulla aliquet. Neque volutpat ac tincidunt vitae semper quis lectus nulla.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim sed faucibus turpis in eu mi bibendum neque. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Velit sed ullamcorper morbi tincidunt ornare massa. Sagittis id consectetur purus ut faucibus pulvinar elementum integer. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Lobortis feugiat vivamus at augue eget arcu. Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Mauris a diam maecenas sed enim ut sem viverra aliquet. Enim ut tellus elementum sagittis vitae et leo duis. Molestie at elementum eu facilisis sed odio morbi quis commodo. Sapien pellentesque habitant morbi tristique senectus. Quam vulputate dignissim suspendisse in est. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget.\nVelit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum. Viverra mauris in aliquam sem fringilla ut morbi tincidunt augue. Tortor at auctor urna nunc id. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Aliquet nibh praesent tristique magna sit amet purus. Tristique senectus et netus et malesuada fames ac turpis. Hac habitasse platea dictumst quisque. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Ultrices tincidunt arcu non sodales neque sodales ut etiam. Iaculis at erat pellentesque adipiscing. Cras tincidunt lobortis feugiat vivamus. Nisi est sit amet facilisis magna etiam. Pharetra pharetra massa massa ultricies mi quis hendrerit. Vitae sapien pellentesque habitant morbi tristique senectus. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae."
+  },
+  {
+    "objectID": "projects/data_science/index.html",
+    "href": "projects/data_science/index.html",
+    "title": "Data Science",
+    "section": "",
+    "text": "First Post\n\n\nPost description for first post\n\n\n\n\n\nMay 22, 2021\n\n\nHarsha\n\n\n\n\n\n\n\n\n\n\n\n\nSecond Post\n\n\nPost description for second post\n\n\n\n\n\nMay 23, 2021\n\n\nAlicia\n\n\n\n\n\n\n\n\n\n\n\n\nThird Blog Post\n\n\nAn example post where the source document is a Jupyter Notebook\n\n\n\n\n\nMay 24, 2021\n\n\nHarsha\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/data_science/first-post/index.html",
+    "href": "projects/data_science/first-post/index.html",
+    "title": "First Post",
+    "section": "",
+    "text": "Sed risus ultricies tristique nulla aliquet. Neque volutpat ac tincidunt vitae semper quis lectus nulla.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim sed faucibus turpis in eu mi bibendum neque. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Velit sed ullamcorper morbi tincidunt ornare massa. Sagittis id consectetur purus ut faucibus pulvinar elementum integer. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Lobortis feugiat vivamus at augue eget arcu. Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Mauris a diam maecenas sed enim ut sem viverra aliquet. Enim ut tellus elementum sagittis vitae et leo duis. Molestie at elementum eu facilisis sed odio morbi quis commodo. Sapien pellentesque habitant morbi tristique senectus. Quam vulputate dignissim suspendisse in est. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget.\nVelit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum. Viverra mauris in aliquam sem fringilla ut morbi tincidunt augue. Tortor at auctor urna nunc id. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Aliquet nibh praesent tristique magna sit amet purus. Tristique senectus et netus et malesuada fames ac turpis. Hac habitasse platea dictumst quisque. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Ultrices tincidunt arcu non sodales neque sodales ut etiam. Iaculis at erat pellentesque adipiscing. Cras tincidunt lobortis feugiat vivamus. Nisi est sit amet facilisis magna etiam. Pharetra pharetra massa massa ultricies mi quis hendrerit. Vitae sapien pellentesque habitant morbi tristique senectus. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Data Science\n\n\nMy data sceince projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSustainability\n\n\nMy sustainability projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime Series Forecasting\n\n\nMy forecasting projects.\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/data_science/scond-post/index.html",
+    "href": "projects/data_science/scond-post/index.html",
+    "title": "Second Post",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Amet cursus sit amet dictum sit amet. Eget duis at tellus at urna condimentum. Convallis aenean et tortor at risus viverra. Tincidunt ornare massa eget egestas purus viverra accumsan. Et malesuada fames ac turpis egestas. At imperdiet dui accumsan sit amet. Ut ornare lectus sit amet est placerat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Mattis enim ut tellus elementum sagittis. Dui id ornare arcu odio ut. Natoque penatibus et magnis dis. Libero justo laoreet sit amet cursus sit. Sed faucibus turpis in eu. Tempus iaculis urna id volutpat lacus laoreet.\nPhasellus vestibulum lorem sed risus. Eget felis eget nunc lobortis mattis. Sit amet aliquam id diam maecenas ultricies. Egestas maecenas pharetra convallis posuere morbi. Etiam erat velit scelerisque in dictum non consectetur a erat. Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Viverra accumsan in nisl nisi scelerisque. Et netus et malesuada fames ac. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Eget lorem dolor sed viverra ipsum nunc aliquet. Ultrices dui sapien eget mi proin sed libero enim sed. Ultricies mi eget mauris pharetra et ultrices neque. Ipsum suspendisse ultrices gravida dictum. A arcu cursus vitae congue mauris rhoncus aenean vel. Gravida arcu ac tortor dignissim convallis. Nulla posuere sollicitudin aliquam ultrices."
+  },
+  {
+    "objectID": "projects/data_science/third-post/index.html",
+    "href": "projects/data_science/third-post/index.html",
+    "title": "Third Blog Post",
+    "section": "",
+    "text": "The source for any page in your website could also be a Jupyter Notebook. This one is third-post/index.ipynb.\nHere’s an example I borrowed from the Seaborn docs:\n\nimport seaborn as sns\n\nsns.set_theme(style=\"whitegrid\")\n\n# Load the diamonds dataset\ndiamonds = sns.load_dataset(\"diamonds\")\n\n# Plot the distribution of clarity ratings, conditional on carat\nsns.displot(\n    data=diamonds,\n    x=\"carat\", hue=\"cut\",\n    kind=\"kde\", height=4, aspect=1.5,\n    multiple=\"fill\", clip=(0, None),\n    palette=\"ch:rot=-.25,hue=1,light=.75\",   \n)"
+  },
+  {
+    "objectID": "projects/forecasting/index.html",
+    "href": "projects/forecasting/index.html",
+    "title": "Time Series Forecasting",
+    "section": "",
+    "text": "First Post\n\n\nPost description for first post\n\n\n\n\n\nMay 22, 2021\n\n\nHarsha\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/sustainability/index.html",
+    "href": "projects/sustainability/index.html",
+    "title": "Sustainability",
+    "section": "",
+    "text": "First Post\n\n\nPost description for first post\n\n\n\n\n\nMay 22, 2021\n\n\nHarsha\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/first-post/index.html",
+    "href": "blog/first-post/index.html",
+    "title": "First Post",
+    "section": "",
+    "text": "🎯 How can the healthcare ecosystem be transformed beyond just applying new technologies?\nAs part of my PhD research on DigitalTwins in Healthcare, I recently read a compelling book, “Digital Transformation in Healthcare: An Ecosystem Approach”, by Prof. Panos Constantinides, which has shaped my thinking on this question.\nThe book explores the complexities of digital_evolution in healthcare, highlighting several systemic challenges:\n📌 Rising service costs 📌 Unclear benefits 📌 Fragmented data access and interoperability issues 📌 Siloed infrastructures and coordination challenges\nThese are not merely technical problems; they are structural and relational, rooted in the interconnected network of stakeholders within the healthcare ecosystem. The book emphasizes the importance of co-adoption and co-innovation to create sustainable and value-driven partnerships.\nFrom my PhD perspective, digital twins offer an integrative approach to these challenges, leveraging real-time simulation, predictive modeling, and data harmonization to generate actionable insights, enhance coordination, and support system-wide innovation.\nThis book has deepened my understanding of what true digital transformation in healthcare requires:\n➡️ A shift in mindset ➡️ A focus on ecosystem_wide collaboration ➡️ A rethinking of relationships, responsibilities, and value_creation."
   },
   {
     "objectID": "about/index.html",
@@ -70,102 +168,18 @@
     "text": "Academic positions\n\nStep-Up Tutor, Widening Participation (January 2025-Present)\nCardiff Business School Peer Mentoring Scheme"
   },
   {
-    "objectID": "talks/index.html",
-    "href": "talks/index.html",
-    "title": "",
+    "objectID": "publications/working_papers/index.html",
+    "href": "publications/working_papers/index.html",
+    "title": "Working Papers",
     "section": "",
-    "text": "First Post\n\n\n\n\n\nPost description for first post\n\n\n\n\n\nMay 22, 2021\n\n\nHarsha\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/forecasting/index.html",
-    "href": "projects/forecasting/index.html",
-    "title": "Time Series Forecasting",
-    "section": "",
-    "text": "First Post\n\n\n\n\n\nPost description for first post\n\n\n\n\n\nMay 22, 2021\n\n\nHarsha\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/sustainability/index.html",
-    "href": "projects/sustainability/index.html",
-    "title": "Sustainability",
-    "section": "",
-    "text": "First Post\n\n\n\n\n\nPost description for first post\n\n\n\n\n\nMay 22, 2021\n\n\nHarsha\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/data_science/scond-post/index.html",
-    "href": "projects/data_science/scond-post/index.html",
-    "title": "Second Post",
-    "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Amet cursus sit amet dictum sit amet. Eget duis at tellus at urna condimentum. Convallis aenean et tortor at risus viverra. Tincidunt ornare massa eget egestas purus viverra accumsan. Et malesuada fames ac turpis egestas. At imperdiet dui accumsan sit amet. Ut ornare lectus sit amet est placerat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Mattis enim ut tellus elementum sagittis. Dui id ornare arcu odio ut. Natoque penatibus et magnis dis. Libero justo laoreet sit amet cursus sit. Sed faucibus turpis in eu. Tempus iaculis urna id volutpat lacus laoreet.\nPhasellus vestibulum lorem sed risus. Eget felis eget nunc lobortis mattis. Sit amet aliquam id diam maecenas ultricies. Egestas maecenas pharetra convallis posuere morbi. Etiam erat velit scelerisque in dictum non consectetur a erat. Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Viverra accumsan in nisl nisi scelerisque. Et netus et malesuada fames ac. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Eget lorem dolor sed viverra ipsum nunc aliquet. Ultrices dui sapien eget mi proin sed libero enim sed. Ultricies mi eget mauris pharetra et ultrices neque. Ipsum suspendisse ultrices gravida dictum. A arcu cursus vitae congue mauris rhoncus aenean vel. Gravida arcu ac tortor dignissim convallis. Nulla posuere sollicitudin aliquam ultrices."
-  },
-  {
-    "objectID": "projects/data_science/third-post/index.html",
-    "href": "projects/data_science/third-post/index.html",
-    "title": "Third Blog Post",
-    "section": "",
-    "text": "The source for any page in your website could also be a Jupyter Notebook. This one is third-post/index.ipynb.\nHere’s an example I borrowed from the Seaborn docs:\n\nimport seaborn as sns\n\nsns.set_theme(style=\"whitegrid\")\n\n# Load the diamonds dataset\ndiamonds = sns.load_dataset(\"diamonds\")\n\n# Plot the distribution of clarity ratings, conditional on carat\nsns.displot(\n    data=diamonds,\n    x=\"carat\", hue=\"cut\",\n    kind=\"kde\", height=4, aspect=1.5,\n    multiple=\"fill\", clip=(0, None),\n    palette=\"ch:rot=-.25,hue=1,light=.75\",   \n)"
-  },
-  {
-    "objectID": "publications/journal_articles/index.html",
-    "href": "publications/journal_articles/index.html",
-    "title": "Journal Articles",
-    "section": "",
-    "text": "Author/(s)\n\n\nTitle\n\n\nKeywords\n\n\n\n\n\n\nFatemeh Monshizadeh, Mohammad Reza Sadeghi Moghadam, Taha Mansouri, Maneesh Kumar\n\n\nDeveloping an industry 4.0 readiness model using fuzzy cognitive maps approach\n\n\nIndustry 4.0, Readiness model, Fuzzy cognitive maps (FCM)\n\n\n\n\nTaha Mansouri, Mohammad Reza Sadeghi Moghadam, Fatemeh Monshizadeh, Ahad Zareravasan\n\n\nIoT data quality issues and potential solutions: a literature review\n\n\nData quality, Internet of Things (IoT), IoT data quality dimensions, IoT data quality issues, Literature review\n\n\n\n\n\nNo matching items"
+    "text": "Title\n\n\n\nDescription\n\n\n\nKeywords\n\n\n\n\n\n\n\n\nHarsha Chamara Hewage, H. Niles Perera, Shari De Baets, Forecast adjustments during post-promotional periods, European Journal of Operational Research.\n\n\nWe study judgmental forecast adjustments in pre-promotional (normal), promotional and post-promotional periods via behavioral experiments. Forecasters need structured support to make effective adjustments during post-promotional periods. The…\n\n\nPython, Machine Learning, Data Cleaning\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/book_chapters/index.html",
     "href": "publications/book_chapters/index.html",
     "title": "Book Chapters",
     "section": "",
-    "text": "Title\n\n\nDescription\n\n\nKeywords\n\n\n\n\n\n\nHarsha Chamara Hewage, H. Niles Perera, Shari De Baets, Forecast adjustments during post-promotional periods, European Journal of Operational Research.\n\n\nWe study judgmental forecast adjustments in pre-promotional (normal), promotional and post-promotional periods via behavioral experiments. Forecasters need structured support to make effective adjustments during post-promotional periods. The…\n\n\nPython, Machine Learning, Data Cleaning\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/working_papers/index.html",
-    "href": "publications/working_papers/index.html",
-    "title": "Working Papers",
-    "section": "",
-    "text": "Title\n\n\nDescription\n\n\nKeywords\n\n\n\n\n\n\nHarsha Chamara Hewage, H. Niles Perera, Shari De Baets, Forecast adjustments during post-promotional periods, European Journal of Operational Research.\n\n\nWe study judgmental forecast adjustments in pre-promotional (normal), promotional and post-promotional periods via behavioral experiments. Forecasters need structured support to make effective adjustments during post-promotional periods. The…\n\n\nPython, Machine Learning, Data Cleaning\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/technical_reports/index.html",
-    "href": "publications/technical_reports/index.html",
-    "title": "Technical Reports",
-    "section": "",
-    "text": "Title\n\n\nDescription\n\n\nKeywords\n\n\n\n\n\n\nHarsha Chamara Hewage, H. Niles Perera, Shari De Baets, Forecast adjustments during post-promotional periods, European Journal of Operational Research.\n\n\nWe study judgmental forecast adjustments in pre-promotional (normal), promotional and post-promotional periods via behavioral experiments. Forecasters need structured support to make effective adjustments during post-promotional periods. The…\n\n\nPython, Machine Learning, Data Cleaning\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/data_science/index.html",
-    "href": "projects/data_science/index.html",
-    "title": "Data Science",
-    "section": "",
-    "text": "First Post\n\n\n\n\n\nPost description for first post\n\n\n\n\n\nMay 22, 2021\n\n\nHarsha\n\n\n\n\n\n\n\n\n\n\n\n\nSecond Post\n\n\n\n\n\nPost description for second post\n\n\n\n\n\nMay 23, 2021\n\n\nAlicia\n\n\n\n\n\n\n\n\n\n\n\n\nThird Blog Post\n\n\n\n\n\nAn example post where the source document is a Jupyter Notebook\n\n\n\n\n\nMay 24, 2021\n\n\nHarsha\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/data_science/first-post/index.html",
-    "href": "projects/data_science/first-post/index.html",
-    "title": "First Post",
-    "section": "",
-    "text": "Sed risus ultricies tristique nulla aliquet. Neque volutpat ac tincidunt vitae semper quis lectus nulla.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim sed faucibus turpis in eu mi bibendum neque. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Velit sed ullamcorper morbi tincidunt ornare massa. Sagittis id consectetur purus ut faucibus pulvinar elementum integer. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Lobortis feugiat vivamus at augue eget arcu. Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Mauris a diam maecenas sed enim ut sem viverra aliquet. Enim ut tellus elementum sagittis vitae et leo duis. Molestie at elementum eu facilisis sed odio morbi quis commodo. Sapien pellentesque habitant morbi tristique senectus. Quam vulputate dignissim suspendisse in est. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget.\nVelit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum. Viverra mauris in aliquam sem fringilla ut morbi tincidunt augue. Tortor at auctor urna nunc id. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Aliquet nibh praesent tristique magna sit amet purus. Tristique senectus et netus et malesuada fames ac turpis. Hac habitasse platea dictumst quisque. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Ultrices tincidunt arcu non sodales neque sodales ut etiam. Iaculis at erat pellentesque adipiscing. Cras tincidunt lobortis feugiat vivamus. Nisi est sit amet facilisis magna etiam. Pharetra pharetra massa massa ultricies mi quis hendrerit. Vitae sapien pellentesque habitant morbi tristique senectus. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae."
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Data Science\n\n\nMy data sceince projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSustainability\n\n\nMy sustainability projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime Series Forecasting\n\n\nMy forecasting projects.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/sustainability/first-post/index.html",
-    "href": "projects/sustainability/first-post/index.html",
-    "title": "First Post",
-    "section": "",
-    "text": "Sed risus ultricies tristique nulla aliquet. Neque volutpat ac tincidunt vitae semper quis lectus nulla.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim sed faucibus turpis in eu mi bibendum neque. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Velit sed ullamcorper morbi tincidunt ornare massa. Sagittis id consectetur purus ut faucibus pulvinar elementum integer. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Lobortis feugiat vivamus at augue eget arcu. Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Mauris a diam maecenas sed enim ut sem viverra aliquet. Enim ut tellus elementum sagittis vitae et leo duis. Molestie at elementum eu facilisis sed odio morbi quis commodo. Sapien pellentesque habitant morbi tristique senectus. Quam vulputate dignissim suspendisse in est. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget.\nVelit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum. Viverra mauris in aliquam sem fringilla ut morbi tincidunt augue. Tortor at auctor urna nunc id. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Aliquet nibh praesent tristique magna sit amet purus. Tristique senectus et netus et malesuada fames ac turpis. Hac habitasse platea dictumst quisque. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Ultrices tincidunt arcu non sodales neque sodales ut etiam. Iaculis at erat pellentesque adipiscing. Cras tincidunt lobortis feugiat vivamus. Nisi est sit amet facilisis magna etiam. Pharetra pharetra massa massa ultricies mi quis hendrerit. Vitae sapien pellentesque habitant morbi tristique senectus. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae."
-  },
-  {
-    "objectID": "projects/forecasting/first-post/index.html",
-    "href": "projects/forecasting/first-post/index.html",
-    "title": "First Post",
-    "section": "",
-    "text": "Sed risus ultricies tristique nulla aliquet. Neque volutpat ac tincidunt vitae semper quis lectus nulla.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim sed faucibus turpis in eu mi bibendum neque. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Velit sed ullamcorper morbi tincidunt ornare massa. Sagittis id consectetur purus ut faucibus pulvinar elementum integer. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Lobortis feugiat vivamus at augue eget arcu. Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Mauris a diam maecenas sed enim ut sem viverra aliquet. Enim ut tellus elementum sagittis vitae et leo duis. Molestie at elementum eu facilisis sed odio morbi quis commodo. Sapien pellentesque habitant morbi tristique senectus. Quam vulputate dignissim suspendisse in est. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget.\nVelit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum. Viverra mauris in aliquam sem fringilla ut morbi tincidunt augue. Tortor at auctor urna nunc id. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Aliquet nibh praesent tristique magna sit amet purus. Tristique senectus et netus et malesuada fames ac turpis. Hac habitasse platea dictumst quisque. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Ultrices tincidunt arcu non sodales neque sodales ut etiam. Iaculis at erat pellentesque adipiscing. Cras tincidunt lobortis feugiat vivamus. Nisi est sit amet facilisis magna etiam. Pharetra pharetra massa massa ultricies mi quis hendrerit. Vitae sapien pellentesque habitant morbi tristique senectus. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae."
+    "text": "Title\n\n\n\nDescription\n\n\n\nKeywords\n\n\n\n\n\n\n\n\nHarsha Chamara Hewage, H. Niles Perera, Shari De Baets, Forecast adjustments during post-promotional periods, European Journal of Operational Research.\n\n\nWe study judgmental forecast adjustments in pre-promotional (normal), promotional and post-promotional periods via behavioral experiments. Forecasters need structured support to make effective adjustments during post-promotional periods. The…\n\n\nPython, Machine Learning, Data Cleaning\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "talks/first-post/index.html",
@@ -173,19 +187,5 @@
     "title": "First Post",
     "section": "",
     "text": "Slides\n  \n\nSed risus ultricies tristique nulla aliquet. Neque volutpat ac tincidunt vitae semper quis lectus nulla.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim sed faucibus turpis in eu mi bibendum neque. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Velit sed ullamcorper morbi tincidunt ornare massa. Sagittis id consectetur purus ut faucibus pulvinar elementum integer. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Lobortis feugiat vivamus at augue eget arcu. Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Mauris a diam maecenas sed enim ut sem viverra aliquet. Enim ut tellus elementum sagittis vitae et leo duis. Molestie at elementum eu facilisis sed odio morbi quis commodo. Sapien pellentesque habitant morbi tristique senectus. Quam vulputate dignissim suspendisse in est. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget.\nVelit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum. Viverra mauris in aliquam sem fringilla ut morbi tincidunt augue. Tortor at auctor urna nunc id. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Aliquet nibh praesent tristique magna sit amet purus. Tristique senectus et netus et malesuada fames ac turpis. Hac habitasse platea dictumst quisque. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Ultrices tincidunt arcu non sodales neque sodales ut etiam. Iaculis at erat pellentesque adipiscing. Cras tincidunt lobortis feugiat vivamus. Nisi est sit amet facilisis magna etiam. Pharetra pharetra massa massa ultricies mi quis hendrerit. Vitae sapien pellentesque habitant morbi tristique senectus. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Fatemeh Monshizadeh",
-    "section": "",
-    "text": "I am currently a PhD student at Cardiff University, UK, specializing in Digital Twins, Industry 4.0, Healthcare, and Digital Business Models. My research focuses on exploring the transformative potential of Digital Twins in healthcare, including their applications, challenges, and benefits.\nWith a strong academic foundation and hands-on research experience, I am eager to bring my expertise to businesses, particularly in management consulting and digital transformation. I am passionate about helping organizations leverage cutting-edge technologies to optimize operations, enhance decision-making, and drive innovation.\nAs a self-motivated and driven individual, I thrive in dynamic environments where creativity, collaboration, and effective communication can make a meaningful impact. My goal is to bridge the gap between academic insights and practical applications, empowering businesses to adapt and excel in the digital age.\nExplore my full list of publications on Google Scholar."
-  },
-  {
-    "objectID": "blog/first-post/index.html",
-    "href": "blog/first-post/index.html",
-    "title": "First Post",
-    "section": "",
-    "text": "🎯 How can the healthcare ecosystem be transformed beyond just applying new technologies?\nAs part of my PhD research on DigitalTwins in Healthcare, I recently read a compelling book, “Digital Transformation in Healthcare: An Ecosystem Approach”, by Prof. Panos Constantinides, which has shaped my thinking on this question.\nThe book explores the complexities of digital_evolution in healthcare, highlighting several systemic challenges:\n📌 Rising service costs 📌 Unclear benefits 📌 Fragmented data access and interoperability issues 📌 Siloed infrastructures and coordination challenges\nThese are not merely technical problems; they are structural and relational, rooted in the interconnected network of stakeholders within the healthcare ecosystem. The book emphasizes the importance of co-adoption and co-innovation to create sustainable and value-driven partnerships.\nFrom my PhD perspective, digital twins offer an integrative approach to these challenges, leveraging real-time simulation, predictive modeling, and data harmonization to generate actionable insights, enhance coordination, and support system-wide innovation.\nThis book has deepened my understanding of what true digital transformation in healthcare requires:\n➡️ A shift in mindset ➡️ A focus on ecosystem_wide collaboration ➡️ A rethinking of relationships, responsibilities, and value_creation."
   }
 ]
