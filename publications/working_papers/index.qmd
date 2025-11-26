@@ -1,0 +1,15 @@
+---
+title: Working Papers
+listing:
+  contents: working_papers.yml
+  type: table
+  max-description-length: 250
+  sort-ui: false
+  sort: date desc
+  filter-ui: true
+  fields: [title, description, categories]
+  field-display-names: 
+      title: 'Title'
+      categories: 'Keywords'
+link-external-newwindow: true
+---

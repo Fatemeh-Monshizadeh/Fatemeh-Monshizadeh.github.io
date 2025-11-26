@@ -1,0 +1,16 @@
+---
+title: "Data Science"
+description: "My data sceince projects."
+image: "cover.jpg"
+categories:
+  - R
+  - Python
+  - Quarto
+  - Postron
+  - Machine Learning
+listing:
+  contents: /
+  type: default # Explore more listing types; default, grid or table
+  filter-ui: true
+link-external-newwindow: true
+---

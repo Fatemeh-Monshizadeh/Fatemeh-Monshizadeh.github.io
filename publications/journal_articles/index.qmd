@@ -1,0 +1,17 @@
+---
+title: Journal Articles
+listing:
+  contents: journal_articles.yml
+  type: table
+  max-description-length: 250
+  sort-ui: false
+  sort: date desc
+  filter-ui: true
+  fields: [author, title, categories]
+  field-display-names: 
+      author: 'Author/(s)'
+      title: 'Title'
+      categories: 'Keywords'
+link-external-newwindow: true
+---
+

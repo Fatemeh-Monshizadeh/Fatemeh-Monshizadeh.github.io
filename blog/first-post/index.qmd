@@ -1,0 +1,33 @@
+---
+title: "First Post"
+description: "Beyond Technology: Rethinking Healthcare Transformation Through Ecosystem Collaboration"
+author: "Fatemeh"
+date: "24/11/2025"
+image: "cover.jpg"
+categories:
+  - Emerging Technologies
+  - Healthcare Systems
+resources:
+  - presentation.pdf
+---
+
+🎯 How can the healthcare ecosystem be transformed beyond just applying new technologies?
+
+As part of my PhD research on DigitalTwins in Healthcare, I recently read a compelling book, "Digital Transformation in Healthcare: An Ecosystem Approach", by Prof. Panos Constantinides, which has shaped my thinking on this question. 
+
+The book explores the complexities of digital_evolution in healthcare, highlighting several systemic challenges:
+
+📌 Rising service costs
+📌 Unclear benefits
+📌 Fragmented data access and interoperability issues
+📌 Siloed infrastructures and coordination challenges
+
+These are not merely technical problems; they are structural and relational, rooted in the interconnected network of stakeholders within the healthcare ecosystem. The book emphasizes the importance of co-adoption and co-innovation to create sustainable and value-driven partnerships.
+
+From my PhD perspective, digital twins offer an integrative approach to these challenges, leveraging real-time simulation, predictive modeling, and data harmonization to generate actionable insights, enhance coordination, and support system-wide innovation.
+
+This book has deepened my understanding of what true digital transformation in healthcare requires:
+
+➡️ A shift in mindset
+➡️ A focus on ecosystem_wide collaboration
+➡️ A rethinking of relationships, responsibilities, and value_creation. 

@@ -1,0 +1,29 @@
+---
+title: "Fatemeh Monshizadeh"
+subtitle: "PhD Student in Digital Twins and Healthcare"
+image: images/fatemeh.jpg 
+about:
+  template: jolla  # Different templates: jolla, trestles, solana, marquee, or broadside
+  image-shape: round
+  links:
+    - icon: envelope-at-fill  # https://icons.getbootstrap.com/?q=book
+      text: e-mail
+      href: monshizadehf@cardiff.ac.uk
+    - icon: github
+      text: Github
+      href: https://github.com/Fatemeh-Monshizadeh 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/fatemeh-monshizadeh/ 
+    - icon: bookmark-star-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=tRs6Kvn7GacC&hl=en 
+---
+
+  I am currently a PhD student at Cardiff University, UK, specializing in Digital Twins, Industry 4.0, Healthcare, and Digital Business Models. My research focuses on exploring the transformative potential of Digital Twins in healthcare, including their applications, challenges, and benefits.
+
+With a strong academic foundation and hands-on research experience, I am eager to bring my expertise to businesses, particularly in management consulting and digital transformation. I am passionate about helping organizations leverage cutting-edge technologies to optimize operations, enhance decision-making, and drive innovation.
+
+As a self-motivated and driven individual, I thrive in dynamic environments where creativity, collaboration, and effective communication can make a meaningful impact. My goal is to bridge the gap between academic insights and practical applications, empowering businesses to adapt and excel in the digital age.
+
+Explore my [full list of publications](https://scholar.google.com/citations?user=tRs6Kvn7GacC&hl=en) on Google Scholar.

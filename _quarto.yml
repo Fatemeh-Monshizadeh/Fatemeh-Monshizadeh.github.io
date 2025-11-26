@@ -1,0 +1,48 @@
+project:
+  type: website
+
+website:
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer: "Made with ❤️ and Quarto"
+  navbar:
+    search: true
+    #background: '#3e3e3e'
+    left:
+      - text: Home
+        href: index.qmd
+        icon: house-door-fill
+    right:
+      - text: About
+        href: about/index.qmd
+      - text: Projects
+        href: projects/index.qmd
+      - text: Talks
+        href: talks/index.qmd
+      - text: Publications
+        menu: 
+          - text: Journal Publications
+            href: publications/journal_articles/index.qmd
+          - text: Book Chapters
+            href: publications/book_chapters/index.qmd
+          - text: Working Papers
+            href: publications/working_papers/index.qmd
+          - text: Technical Reports
+            href: publications/technical_reports/index.qmd 
+      - text: Blog
+        href: blog/index.qmd
+    tools:
+      - icon: github
+        href: https://github.com/Fatemeh-Monshizadeh
+      - icon: linkedin
+        href: https://www.linkedin.com/in/fatemeh-monshizadeh/
+      - icon: bookmark-star-fill
+        href: https://scholar.google.com/citations?user=tRs6Kvn7GacC&hl=en
+format:
+  html:
+    html:
+    backgroundcolor: "#FFFFFF" # https://www.figma.com/colors/
+    fontcolor: "rgb(55, 58, 60)"
+    linkcolor: "#0066b2"
+    mainfont: "system-ui"   # "Source Sans Pro", "-apple-system", "system-ui", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "sans-serif", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
+    theme: [cosmo, styles.scss] # https://quarto.org/docs/output-formats/html-themes.html
+

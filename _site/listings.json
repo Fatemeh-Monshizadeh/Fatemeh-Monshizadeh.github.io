@@ -1,0 +1,78 @@
+[
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/data_science/index.html",
+      "/projects/sustainability/index.html",
+      "/projects/forecasting/index.html"
+    ]
+  },
+  {
+    "listing": "/publictions/index.html",
+    "items": []
+  },
+  {
+    "listing": "/projects/data_science/index.html",
+    "items": [
+      "/projects/data_science/first-post/index.html",
+      "/projects/data_science/scond-post/index.html",
+      "/projects/data_science/third-post/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/sustainability/index.html",
+    "items": [
+      "/projects/sustainability/first-post/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/forecasting/index.html",
+    "items": [
+      "/projects/forecasting/first-post/index.html"
+    ]
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": [
+      "/talks/first-post/index.html"
+    ]
+  },
+  {
+    "listing": "/publictions/journal_articles/index.html",
+    "items": []
+  },
+  {
+    "listing": "/publictions/working_papers/index.html",
+    "items": []
+  },
+  {
+    "listing": "/publictions/book_chapters/index.html",
+    "items": []
+  },
+  {
+    "listing": "/publictions/technical_reports/index.html",
+    "items": []
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/first-post/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/journal_articles/index.html",
+    "items": []
+  },
+  {
+    "listing": "/publications/working_papers/index.html",
+    "items": []
+  },
+  {
+    "listing": "/publications/book_chapters/index.html",
+    "items": []
+  },
+  {
+    "listing": "/publications/technical_reports/index.html",
+    "items": []
+  }
+]

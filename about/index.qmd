@@ -1,0 +1,53 @@
+---
+title: "Who am I"
+---
+
+  I am **Fatemeh Monshizadeh**, a PhD candidate at **Cardiff Business School** (Data Lab for Social Good). My research focuses on developing a digital twin model for healthcare, aiming to offer personalized treatment to patients by leveraging the benefits of the digital twin concept. 
+
+With a strong academic foundation and hands-on research experience, I am passionate about helping organizations harness advanced technologies to optimize operations, enhance decision-making, and drive innovation. My expertise lies in bridging academic insights with real-world applications, empowering businesses to adapt and thrive in an increasingly digital world. Alongside my PhD work, I am responsible for managing social media at the Data Lab for Social Good.
+
+## Education
+
+* **PhD**, Cardiff Business School — Developing a Conceptual Model to Use Digital Twins in Healthcare, Cardiff University, UK
+* **Master** Social Science Research Methods, Cardiff University, UK (Distinction)
+* **Master** Industrial Management, University of Tehran, Tehran, Iran. 
+* **Bachelor** Public Administration, Ferdowsi University of Mashhad, Mashhad, Iran. 
+  
+## Research focus / PhD project
+  
+  My research focuses on advancing the development and application of digital twins in healthcare, with a particular emphasis on improving clinical decision-making, operational efficiency, and patient outcomes. Despite the transformative potential of digital twins, their adoption in healthcare is hindered by challenges such as data heterogeneity, integration complexity, ethical concerns, and uncertainties in clinical environments. By combining simulation modelling, machine learning, and stakeholder theory, my work aims to develop conceptual and computational models that can support real-time decision-making and enhance the reliability of digital twin systems—especially in high-risk domains such as cancer care and emergency response.
+
+  This interdisciplinary project brings together expertise from Cardiff Business School, the School of Computer Science & Informatics, and clinical partners. It involves analysing the benefits, risks, and challenges of digital twins across different levels of the healthcare ecosystem (micro, meso, and macro), developing taxonomies of modelling techniques, and exploring the roadmap for safe and responsible implementation. Ultimately, my research aims to support clinicians, patients, healthcare managers, and policymakers by providing evidence-based frameworks that guide the development of trustworthy digital twins, improving quality of care, resource efficiency, and system resilience.
+
+## Supervision team
+
+- Lead: [Prof Maneesh Kumar](https://profiles.cardiff.ac.uk/staff/kumarm8), Cardiff Business School, UK
+
+- Co: [Prof Bahman Rostami-Tabar](https://profiles.cardiff.ac.uk/staff/rostami-tabarb), Data Lab for Social Good Research Group, Cardiff Business School, UK
+
+## Funder
+
+Cardiff Business School (CARBS)
+
+## Teaching & training
+
+* Step-Up Tutor: Entrepreneurship in the Digital Age, Tutor for Step-Up, Widening Participation, and Outreach, Cardiff University
+
+## Honourse and Awards
+
+* Best Paper Award, UKDHC Annual Scientific Informatics Conference, October 2025, UK
+* Outstanding PhD Peer Mentor Award, Cardiff Business School, September 2025, Cardiff, UK
+Awarded the NATCOR bursary to attend the Simulation course, July 2025, Southampton, UK
+* Best Poster Award, 4th Welsh Post-Graduate Research Conference (WPGRC), June 2024, Cardiff, UK
+* Cardiff Business School PhD Scholarships in Logistics and Operations Management (2023 - 2027)
+
+## Professional Membership
+
+* Leadership team member, DTNetPlus: SIG LLODIA - Advancing Digital Twin Interoperability
+* Student Member, The Operational Research Society (The OR Society)
+
+## Academic positions
+
+* Step-Up Tutor, Widening Participation (January 2025-Present)
+* Cardiff Business School Peer Mentoring Scheme
+

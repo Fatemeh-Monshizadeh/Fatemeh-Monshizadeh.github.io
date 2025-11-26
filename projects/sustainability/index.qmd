@@ -1,0 +1,14 @@
+---
+title: "Sustainability"
+description: "My sustainability projects."
+image: "cover.jpg"
+categories:
+  - LCA
+  - Green Tech
+  - Recycle
+listing:
+  contents: /
+  type: default # Explore more listing types; default, grid or table
+  filter-ui: true
+link-external-newwindow: true
+---
