@@ -1,11 +1,11 @@
 ---
 title: "First Post"
 description: "Beyond Technology: Rethinking Healthcare Transformation Through Ecosystem Collaboration"
-author: "Fatemeh"
+author: "Fatemeh Monshizadeh"
 date: "24/11/2025"
 image: "cover.jpg"
 categories:
-  - Emerging Technologies
+  - Digital Twins
   - Healthcare Systems
 resources:
   - presentation.pdf
@@ -13,7 +13,7 @@ resources:
 
 🎯 How can the healthcare ecosystem be transformed beyond just applying new technologies?
 
-As part of my PhD research on DigitalTwins in Healthcare, I recently read a compelling book, "Digital Transformation in Healthcare: An Ecosystem Approach", by Prof. Panos Constantinides, which has shaped my thinking on this question. 
+As part of my PhD research on Digital Twins in Healthcare, I recently read a compelling book, "Digital Transformation in Healthcare: An Ecosystem Approach", by Prof. Panos Constantinides, which has shaped my thinking on this question. 
 
 The book explores the complexities of digital_evolution in healthcare, highlighting several systemic challenges:
 
@@ -29,5 +29,7 @@ From my PhD perspective, digital twins offer an integrative approach to these ch
 This book has deepened my understanding of what true digital transformation in healthcare requires:
 
 ➡️ A shift in mindset
+
 ➡️ A focus on ecosystem_wide collaboration
+
 ➡️ A rethinking of relationships, responsibilities, and value_creation. 
